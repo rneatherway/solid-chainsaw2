@@ -20,5 +20,4 @@ function grabProject(context, next) {
 
     let filename = '';
     filename = filename;
-    filename = filename;
 }
